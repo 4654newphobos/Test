@@ -10,3 +10,5 @@ namespace ConsoleApp2
         }
     }
 }
+Void class
+    { My name is nabin kc }
